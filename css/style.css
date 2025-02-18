@@ -3,7 +3,7 @@
     text-align: center;
     padding: 472px 260px;
 }
-.hea_one{ 
+.hea_one { 
     color: white;
     font-family: "Roboto";
     font-size: 56px;
@@ -12,7 +12,7 @@
     letter-spacing: 0.02em;   
     line-height: 1.07;      
 }
-.button{
+.button {
     border: none;
     font-family: "Roboto", sans-serif;
     color: white;
@@ -25,7 +25,7 @@
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
-.header-3{
+.header-3 {
     font-family: "Roboto";
     font-weight: Medium;
     font-size: 20px;
@@ -34,7 +34,7 @@
     line-height: 1.2;
     color: #2E2F42; 
 }
-.parag-1{
+.parag-1 {
     font-family: "Roboto";
     font-weight: Regular;
     font-size: 16px;
@@ -42,10 +42,10 @@
     letter-spacing: 0.02em;
     color: #434455;
 }
-.section-3{
+.section-3 {
     background-color: #f4f4fd;
 }
-.header-2{
+.header-2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -53,23 +53,23 @@
     text-transform: capitalize;
     color: #2E2F42;
 }
-.employees{
+.employees {
     background-color: #FFFFFF;
 }
-.emp-h3{
+.emp-h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.emp-p{
+.emp-p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.port-h2{
+.port-h2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -77,23 +77,23 @@
     text-transform: capitalize;
     color: #2E2F42;
 }
-.port-h3{
+.port-h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.port-p{
+.port-p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.footer{
+.footer {
     color: #2E2F42;
 }
-.parag-2{
+.parag-2 {
     line-height: 1.5;
     color: #f4f4fd;
     letter-spacing: 0.02em;
