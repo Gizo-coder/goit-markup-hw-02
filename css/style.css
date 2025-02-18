@@ -109,7 +109,7 @@
     color: #f4f4fd;
 }
 .logo{
-    font-family: Raleway;
+    font-family: "Raleway";
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -152,7 +152,7 @@ a:focus{
     color: #404bbf;
 }
 body{
-    font-family: Roboto sans-serif;
+    font-family: "Roboto";
     color: #434455;
     background-color: #ffffff;
 }
