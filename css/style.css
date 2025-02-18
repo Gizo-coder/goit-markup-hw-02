@@ -110,13 +110,14 @@
     color: #f4f4fd;
 }
 .logo{
-    font-family: "Raleway";
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
+    font-family: Raleway;
+
 }
 .span_one{
     color: #2e2f42;
@@ -153,7 +154,8 @@ a:focus{
     color: #404bbf;
 }
 body{
-    font-family: "Roboto" sans-serif;
+    font-family: ;
     color: #434455;
     background-color: #ffffff;
+    font-family: Roboto sans-serif;
 }
